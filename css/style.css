@@ -61,7 +61,7 @@ body {
     .card__image {
         flex: 0 1 40%;
         padding-bottom: 38%;
-        align-self: center;
+        align-self: flex-start;
     }
 
     .card__title {
